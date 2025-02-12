@@ -8,7 +8,7 @@ body {
 header {
     border-bottom: solid 2px rgb(255, 0, 179);
     padding: 20px;
-    font-size: 32px;
+    font-size: 40px;
     color: rgb(255, 0, 179);
 }
 
@@ -76,11 +76,11 @@ header {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 500px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 40px;
 }
 
 .categoria-videos {
@@ -112,7 +112,7 @@ p {
 }
 
 .copyright {
-    font-size: 50px;
+    font-size: 60px;
     padding: 40px;
     display: flex;
     text-align: center;
