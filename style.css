@@ -12,11 +12,11 @@ header {
 }
 
 .background {
-    background: url('bg-desktop.gif');
+    background-color: rgb(255, 170, 244);
 }
 
 .chamada {
-    background: rgb(255, 0, 234);;
+    background: rgb(255, 170, 244);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -85,7 +85,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: rgb(255, 0, 234) rgba(255, 0, 200, 0.575);
+    scrollbar-color: rgb(255, 0, 234) rgb(255, 170, 244)
     scrollbar-width: thin;
     gap: 10px;
 }
