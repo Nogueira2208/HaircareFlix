@@ -47,7 +47,7 @@ header {
 
 .cursor {
     display: inline-block;
-    color: rgba(255, 0, 234, 0);
+    color: rgb(0, 0, 0);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
@@ -85,7 +85,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: rgba(255, 0, 234, 0) rgb(255, 0, 234)
+    scrollbar-color:  rgb(255, 0, 234)
     scrollbar-width: thin;
     gap: 10px;
 }
