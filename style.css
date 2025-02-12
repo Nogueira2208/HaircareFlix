@@ -111,11 +111,10 @@ p {
     color: rgb(255, 0, 234);
 }
 
-.copyright {
-    font-size: 50px;
-    padding: 40px;
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-}
+
+.shadows-into-light-regular {
+    font-family: "Shadows Into Light", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
