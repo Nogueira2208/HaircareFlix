@@ -1,11 +1,11 @@
 body {
-    color: lime;
-    background: black;
+    color: rgba(255, 0, 157, 0.685);
+    background: pink;
     margin: 0px;
     font-family: "Lobster", serif;
 
 header {
-    border-bottom: solid 2px pink;
+    border-bottom: solid 2px rgba(255, 0, 157, 0.685);
     padding: 20px;
     font-size: 32px;
     color: yellow;
@@ -16,12 +16,12 @@ header {
 }
 
 .chamada {
-    background: blueviolet;
+    background: pink;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    border-bottom: solid 2px red;
+    border-bottom: solid 2px rgba(255, 0, 157, 0.685);
 }
 
 .video {
@@ -41,13 +41,13 @@ header {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    color: peru;
+    color: rgba(255, 0, 157, 0.685);
     /* Define a cor do texto */
 }
 
 .cursor {
     display: inline-block;
-    color: powderblue;
+    color: rgba(255, 0, 157, 0.685);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
@@ -85,7 +85,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: purple blue
+    scrollbar-color: rgba(255, 0, 157, 0.685) blue
     scrollbar-width: thin;
     gap: 10px;
 }
