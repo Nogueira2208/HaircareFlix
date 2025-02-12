@@ -1,6 +1,6 @@
 body {
     color: lime;
-    background: black;
+    background: pink;
     margin: 0px;
     font-family: "Lobster", serif;
 }
@@ -17,7 +17,7 @@ header {
 }
 
 .chamada {
-    background: black;
+    background: pink;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -86,7 +86,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: lime black;
+    scrollbar-color: lime pink;
     scrollbar-width: thin;
     gap: 10px;
 }
